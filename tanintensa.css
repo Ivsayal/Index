@@ -1,0 +1,67 @@
+.clase1 div img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clase1{    
+    width: 100%;
+    height: 550px;
+    color: black;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 23px;
+}
+.clase1b{
+    width: 50%;
+    height: 70px;
+    color: rgb(157, 157, 157);
+    background: rgb(153, 152, 152);
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+.clase2{
+    width: 100%;
+    height: 100px;
+    color: black;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 20px;
+}
+.clase3{
+    width: 35%;
+    height: 170px;
+    color: black;
+    background:  rgb(217, 217, 217);
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 23px;
+}
+.clase4{
+    width: 63%;
+    height: 170px;
+    color: black;
+    background: rgb(217, 217, 217);
+    float: right;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    font-size: 23px;    
+}
+.clase5{
+    width: 100%;
+    height: 150px;
+    color: black;
+    background: rgb(217, 217, 217);
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    float: left;
+}
